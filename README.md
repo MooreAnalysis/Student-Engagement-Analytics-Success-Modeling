@@ -9,6 +9,7 @@ Does the number of days since the start of a learning module when a student subm
 Conclusion
 - The results of the correlation and linear model suggest that timing alone is a weak predictor of student performance.
 - Assessment submission timing showed a small, negative correlation with student assessment scores.
+- Evaluated the impact of assignment deadline policies and recommended implementing flexible submission windows to support student engagement and reduce learner stress.
 - Linear Regression indicated that each additional day a student submitted their assessment, from the first day of the module, could decrease their assessment score by .009 points (per day). 
 - Submission timing explained approximately 0.1% of score variation
 
