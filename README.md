@@ -1,5 +1,5 @@
 # Student Learning Outcomes Predictive Analysis
-  Analyzed large-scale education data in R to examine whether submission timing predicts assessment performance. Conducted data cleaning, visualization, correlation analysis, and linear regression on 170k+ records. Found that timing has a statistically significant but negligible effect on scores.
+  Analyzed large-scale education data using Excel and R to examine whether submission timing predicts assessment performance. Conducted data cleaning, visualization, correlation analysis, and linear regression on 170k+ records. Found that timing has a statistically significant but negligible effect on scores.
 
 ---
 
