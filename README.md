@@ -1,4 +1,4 @@
-# Student Learning Outcomes Predictive Analysis
+# Student Engagement Analytics and Success Modeling
   Analyzed large-scale education data using Excel and R to examine whether submission timing predicts assessment performance. Conducted data cleaning, visualization, correlation analysis, and linear regression on 170k+ records. Found that timing has a statistically significant but negligible effect on scores.
 
 ---
